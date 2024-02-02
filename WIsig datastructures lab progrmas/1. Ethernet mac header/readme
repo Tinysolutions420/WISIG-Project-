@@ -1,4 +1,4 @@
-#ETHERNET MAC ADDRESS
+# ETHERNET MAC ADDRESS
 The Ethernet MAC (Media Access Control) header is a fundamental part of the Ethernet frame, which is the basic unit of data transmission in Ethernet networks. The MAC header is placed at the beginning of the Ethernet frame and contains crucial information for the communication between devices on a local network. Here's a brief description of the Ethernet MAC header fields:
 
 1. **Destination MAC Address (6 bytes):**
